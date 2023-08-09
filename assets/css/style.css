@@ -383,7 +383,7 @@ h1, h2, h3, h4, h5, h6 {
   left: 15px;
   padding: 10px 0;
   border-radius: 6px;
-  background-color: #fff;
+  background-color: #000000;
   overflow-y: auto;
   transition: 0.3s;
 }
@@ -391,7 +391,7 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-mobile a {
   padding: 10px 20px;
   font-size: 15px;
-  color: #1a1814;
+  color: #fff;
 }
 
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
@@ -472,13 +472,18 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 48px;
   font-weight: 700;
   line-height: 56px;
-  color: #fff;
+  color: #cda45e;
   font-family: "Poppins", sans-serif;
 }
 
 #hero h1 span {
   color: #cda45e;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 56px;
 }
+
+
 
 #hero h2 {
   color: #eee;
